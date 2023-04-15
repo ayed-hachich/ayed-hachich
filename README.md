@@ -7,11 +7,11 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/ayed-hachich)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/ayed-hachich?label=Follow%20Me&style=social)](https://github.com/ayed-hachich)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ayed%20Hachich-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayed-hachich/)
-[![Mail](https://img.shields.io/badge/Gmail-ayed_jo@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ayed.hachich@esprit.tn)
+[![Mail](https://img.shields.io/badge/Gmail-ayed.hachich@esprit.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ayed.hachich@esprit.tn)
 <br>
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
